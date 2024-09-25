@@ -43,3 +43,11 @@ let res2 = fetch("https://jsonplaceholder.typicode.com/posts/1")
 
 - Security ---> JWT (JSON Web Token), Cryptography (password hashing)
 
+- map data between an backend application and a database, ---> ODM (mongoos) , ORM (Sequelize), etc
+
+- GIT Knowledge
+
+- Archetecture ----> Monolithic Archetecture, Microservices, MVC (Model, View Controller)
+
+- RSA/AES encryption
+
