@@ -33,7 +33,9 @@ let res2 = fetch("https://jsonplaceholder.typicode.com/posts/1")
 
 7. MongoDB (theoritical concept of database)
 
-8.
+8. API Testing and Tools (Postman)
+
+> Note: Folder Structure can be vary according to your project need.
 
 ## Misc Knowledge
 
